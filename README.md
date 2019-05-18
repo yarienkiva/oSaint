@@ -1,4 +1,4 @@
-# oSaint
+# oSaint : v1.1
 The BreachCompilations query.sh on steroids (and python)
 
 ![quick demo](demo.jpg)
